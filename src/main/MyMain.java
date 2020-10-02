@@ -43,7 +43,7 @@ public class MyMain {
                     for(int i=0;i<26;i++)
                         System.out.print("# ");
                     System.out.println("");
-                    System.out.println("Great Choice! so what do you like to do ?");
+                    System.out.println("Great Choice! so what do you like to do?");
                     speak.doSpeak("Great choice! so what do you like to do?");
                     System.out.println("1>> Listen a Joke");
                     speak.doSpeak("listen a joke");
